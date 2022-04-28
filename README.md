@@ -23,13 +23,13 @@ You may also see any lint errors in the console.
 
 ## Playing Instructions
 
-![Screenshot](./src/screenshots/GameSelection.png)
+![Screenshot](../menace-fe/src/screenshots/GameSelection.png)
 
 There are two ways of playing the Game. You can make your selection from the dropdown to play  "Menace Vs Random" or "Menace Vs Human".
 
 ## Menace Vs Random
 
-![Screenshot](./src/screenshots/MenaceVsRandom.png)
+![Screenshot](../menace-fe/src/screenshots/MenaceVsRandom.png)
 
 To Play Menace Vs Random:
 1. Click Start R Vs M Game to start the game.
@@ -40,7 +40,7 @@ If at any time you want to restart the game, click Refresh button to reset the b
 
 ## Menace Vs Human
 
-![Screenshot](./src/screenshots/MenaceVsHuman.png) 
+![Screenshot](../menace-fe/src/screenshots/MenaceVsHuman.png) 
 
 To Play Menace Vs Human:
 1. Click Start H Vs M Game to start the game.
