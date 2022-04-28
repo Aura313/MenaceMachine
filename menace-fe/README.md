@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The Menace
 
 After cloning the project follow the following steps from the root directory:
 ### `cd MenaceMachine`
