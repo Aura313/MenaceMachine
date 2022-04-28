@@ -1,3 +1,4 @@
+# PSA_INFO6205_FinalProject
 # The Menace
 
 After cloning the project follow the following steps from the root directory:
