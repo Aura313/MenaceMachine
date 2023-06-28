@@ -2,6 +2,7 @@
 # The Menace
 
 After cloning the project follow the following steps from the root directory:
+Initial Account - https://github.com/tanyanu
 ### `cd MenaceMachine`
 To enter the Java Spring Boot Directory
 ### `Run the application as JavaApplication`
